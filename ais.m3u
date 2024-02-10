@@ -1,4 +1,6 @@
-EXTM3U
+#EXTM3U url-tvg="https://playidtv.vercel.app/ais/guide.xml, https://playidtv.vercel.app/ais/thailand.xml" m3uautoload=1 cache=500 deinterlace=1 user_message="AIS" OTTNAVIGATE+" vod_library="https://dl.dropbox.com/s/6xn3dnvtpgvidi2/movies1234.m3u?dl=0",
+billed-till="timestamp":
+billed-msg="text")"
 #EXTINF:-1 tvg-name="NBT 2 HD" tvg-id="NBT 2 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="FREE:DigitalTV.", NBT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0001/DASH/B0001.mpd
