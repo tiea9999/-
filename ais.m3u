@@ -1,0 +1,662 @@
+EXTM3U
+#EXTINF:-1 tvg-name="NBT 2 HD" tvg-id="NBT 2 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png" group-title="FREE:DigitalTV.", NBT 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0001/DASH/B0001.mpd
+
+#EXTINF:-1 tvg-name="TPBS" tvg-id="TPBS.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="FREE:DigitalTV.", TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0014/DASH/B0014.mpd
+
+#EXTINF:-1 tvg-name="ALTV4" tvg-id="ALTV4.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG" group-title="FREE:DigitalTV.", ALTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0085/DASH/V0085.mpd
+
+#EXTINF:-1 tvg-name="CH5 HD" tvg-id="CH5 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png" group-title="FREE:DigitalTV.", CH5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0007/DASH/B0007.mpd
+
+#EXTINF:-1 tvg-name="T-Sports7" tvg-id="T-Sports7.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png" group-title="FREE:DigitalTV.", T-Sports7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0129/DASH/B0129.mpd
+
+#EXTINF:-1 tvg-name="Parliament" tvg-id="Parliament.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="FREE:DigitalTV.", Parliament
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0048/DASH/V0048.mpd
+
+#EXTINF:-1 tvg-name="TNN" tvg-id="TNN.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="FREE:DigitalTV.", TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0053/DASH/V0053.mpd
+
+#EXTINF:-1 tvg-name="JKN 18" tvg-id="JKN 18.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="FREE:DigitalTV.", JKN 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0010/DASH/B0010.mpd
+
+#EXTINF:-1 tvg-name="Nation TV" tvg-id="Nation TV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="FREE:DigitalTV.", Nation TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0021/DASH/B0021.mpd
+
+#EXTINF:-1 tvg-name="Workpoint TV" tvg-id="Workpoint TV.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="FREE:DigitalTV.", Workpoint TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0015/DASH/B0015.mpd
+
+#EXTINF:-1 tvg-name="True 4 U" tvg-id="True 4 U.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="FREE:DigitalTV.", True 4 U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0054/DASH/B0054.mpd
+
+#EXTINF:-1 tvg-name="GMM25" tvg-id="GMM25.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="FREE:DigitalTV.", GMM25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0019/DASH/B0019.mpd
+
+#EXTINF:-1 tvg-name="CH8" tvg-id="CH8.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png" group-title="FREE:DigitalTV.", CH8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0006/DASH/B0006.mpd
+
+#EXTINF:-1 tvg-name="MONO" tvg-id="MONO.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="FREE:DigitalTV.", MONO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0016/DASH/B0016.mpd
+
+#EXTINF:-1 tvg-name="MCOT HD" tvg-id="MCOT HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="FREE:DigitalTV.", MCOT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0008/DASH/B0008.mpd
+
+#EXTINF:-1 tvg-name="ONE 31 HD" tvg-id="ONE 31 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="FREE:DigitalTV.", ONE 31 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0012/DASH/B0012.mpd
+
+#EXTINF:-1 tvg-name="Thairath TV HD" tvg-id="Thairath TV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="FREE:DigitalTV.", Thairath TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0013/DASH/B0013.mpd
+
+#EXTINF:-1 tvg-name="3 HD" tvg-id="3 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG" group-title="FREE:DigitalTV.", 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0003/DASH/B0003.mpd
+
+#EXTINF:-1 tvg-name="AmarinTV HD" tvg-id="AmarinTV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png" group-title="FREE:DigitalTV.", AmarinTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0017/DASH/B0017.mpd
+
+#EXTINF:-1 tvg-name="CH7 HD" tvg-id="CH7 HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png" group-title="FREE:DigitalTV.", CH7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0018/DASH/B0018.mpd
+
+#EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png" group-title="FREE:DigitalTV.", PPTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/B0022/DASH/B0022.mpd
+
+#EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png",
+
+#EXTINF:-1 ch-number="312" tvg-name="beIN SPORTS 2" tvg-id="beIN SPORTS 2.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/14-28JAN-Tennis.jpg" group-title="AIS Live Sports",beIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+
+#EXTINF:-1 ch-number="311" tvg-name="beIN SPORTS 1" tvg-id="beIN SPORTS 1.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/Bournemouth-vs-Swansea.jpg" group-title="AIS Live Sports",beIN SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 ch-number="313" tvg-name="beIN SPORTS 3" tvg-id="beIN SPORTS 3.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/Chelsea-vs-Aston-Villa.jpg" group-title="AIS Live Sports",beIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 ch-number="311" tvg-name="beIN SPORTS 1" tvg-id="beIN SPORTS 1.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/Tottenham-vs-Man-City.jpg" group-title="AIS Live Sports",beIN SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 ch-number="999" tvg-name="Pokemon UNITE" tvg-id="Pokemon UNITE.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/PokemonAsiaChampionsLeague2024-Day3.backdrop.jpg" group-title="AIS Live Sports",Pokemon UNITE
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V1005/DASH/V1005.mpd
+
+#EXTINF:-1 ch-number="999" tvg-name="BALLTHAI 1" tvg-id="BALLTHAI 1.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/09_Feb_TV-BANNER_BALLTHAI-01_1920x1080.jpg" group-title="AIS Live Sports",BALLTHAI 1
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/DASH/TL001.mpd
+
+#EXTINF:-1 ch-number="999" tvg-name="BALLTHAI 2" tvg-id="BALLTHAI 2.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/10_Feb_TV-BANNER_BALLTHAI-02_1920x1080.jpg" group-title="AIS Live Sports",BALLTHAI 2
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL002/DASH/TL002.mpd
+
+#EXTINF:-1 ch-number="999" tvg-name="BALLTHAI 3" tvg-id="BALLTHAI 3.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/10_Feb_TV-BANNER_BALLTHAI-03_1920x1080.jpg" group-title="AIS Live Sports",BALLTHAI 3
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/DASH/TL003.mpd
+
+#EXTINF:-1 ch-number="999" tvg-name="BALLTHAI 4" tvg-id="BALLTHAI 4.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/11_Feb_TV-BANNER_BALLTHAI-04_1920x1080.jpg" group-title="AIS Live Sports",BALLTHAI 4
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL004/DASH/TL004.mpd
+
+#EXTINF:-1 ch-number="300" tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/ic_sports_192.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/DP-WORLD-TOUR-HERO-DUBAI-DESERT.backdrop.jpg" group-title="AIS Live Sports",GOLF CHANNEL
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
+
+####################################################################################
+
+
+####################################################################################
+
+
+
+
+
+#EXTINF:-1 ch-number="401" tvg-name="Cartoonito" tvg-id="Cartoonito.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/LOGOAnime1.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/Catoonito.backdrop.jpg" group-title="Kids", Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6a1b556425b6932c6ffe80e7a828e57:bd8ea11b338954c1746f45bcf851c91e
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd
+
+#EXTINF:-1 ch-number="403" tvg-name="Nickelodeon" tvg-id="Nickelodeon.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/LOGOAnime1.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/Nickelodeon-Main.backdrop_2.jpg" group-title="Kids", Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd
+
+#EXTINF:-1 ch-number="404" tvg-name="Nick Jr." tvg-id="Nick Jr..th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/LOGOAnime1.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/NickJr-Main.backdrop.jpg" group-title="Kids", Nick Jr.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
+
+#EXTINF:-1 ch-number="402" tvg-name="Cartoon Network" tvg-id="Cartoon Network.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/LOGOAnime1.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/CartoonNetwork.backdrop.jpg" group-title="Kids", Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=752cdfe2fd238fcb0b98a8cb7e0ed584:1f0d3ac06263a52d9c826394c7f3b1d4
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
+
+#EXTINF:-1 ch-number="450" tvg-name="Boomerang" tvg-id="Boomerang.th" group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/LOGOAnime1.png" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/Poster/Boomerang-Main.backdrop.jpg" group-title="Kids", Boomerang
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
+
+
+####################################################################################
+#EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/NEWS-ICON.png",
+
+#EXTINF:-1 ch-number="51" tvg-name="VTV News" tvg-id="VTV News.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/VTVNews.png" group-title="News", VTV News
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0026/DASH/V0026.mpd
+
+#EXTINF:1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//VoiceTV.png" group-title="News", VOICE TV
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0032/DASH/V0032.mpd
+
+#EXTINF:-1 ch-number="101" tvg-name="3BB Asian" tvg-id="3BB Asian.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png" group-title="Entertainment", 3BB Asian
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=379c40f0207c33f804d115d3ba77ee63:b20b45bea3d8bc7ad4961f813e79d0c1
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0191/DASH/V0191.mpd
+
+#EXTINF:-1 ch-number="106" tvg-name="Warner TV" tvg-id="Warner TV.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="Entertainment", Warner TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00a6eeb6a8623e7f5dd0de890fc55f52:57349ce17aa9f5692ad2fb7d9cdb01c7
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
+
+#EXTINF:-1 ch-number="109" tvg-name="MONO29 Plus" tvg-id="MONO29 Plus.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="Entertainment", MONO29 Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2698a310f625b96ac6c46d5a7c8e779b:35b285a0ace10e4f4cbb7aab67c94fba
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0192/DASH/V0192.mpd
+
+#EXTINF:-1 ch-number="111" tvg-name="Paramount Network" tvg-id="Paramount Network.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//ParamountNetwork.png" group-title="Entertainment", Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25bf32f14fa2141acb7d008c0c438bc8:e8b12304c39c113f97de330a27887b31
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0185/DASH/V0185.mpd
+
+#EXTINF:-1 ch-number="114" tvg-name="HITS Movies" tvg-id="HITS Movies.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="Entertainment", HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=addb5987eda9963ed765295d835b8cc5:7a2df5920917f98f667aed830c92f084
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0138/DASH/V0138.mpd
+
+#EXTINF:-1 ch-number="115" tvg-name="HITS" tvg-id="HITS.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="Entertainment", HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=947a5fdf30b55968f25dce4e80074e4d:ec10530ba2e6861bdb6b18881aadff46
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0137/DASH/V0137.mpd
+
+#EXTINF:-1 ch-number="116" tvg-name="HBO" tvg-id="HBO.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png" group-title="Movies", HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da901f885137d1f274dc7592762611ab:4d3536a7f0d996d6b013fc3dc1de7a3d
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0114/DASH/V0114.mpd
+
+#EXTINF:-1 ch-number="117" tvg-name="HBO Signature" tvg-id="HBO Signature.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="Movies", HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c1c27765dae9b95ee04ea6e8f50c34:7db57b354d4d9cdb22e256c2a7500956
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0117/DASH/V0117.mpd
+
+#EXTINF:-1 ch-number="118" tvg-name="HBO Hits" tvg-id="HBO Hits.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png" group-title="Movies", HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56c2717c2c6431c75ac1fbf64a997cb6:d4544ffd929b2da1f6101705e74facee
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0116/DASH/V0116.mpd
+
+#EXTINF:-1 ch-number="119" tvg-name="HBO Family" tvg-id="HBO Family.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="Movies", HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96af42ae402ccc9b3f92a8e99ec8f5aa:6a0991ae3f06f76a010afa5515f67ac6
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0115/DASH/V0115.mpd
+
+#EXTINF:-1 ch-number="120" tvg-name="CINEMAX" tvg-id="CINEMAX.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="Movies", CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
+
+#EXTINF:-1 ch-number="156" tvg-name="Mangkorn" tvg-id="Mangkorn.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="Entertainment", Mangkorn
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0159/DASH/V0159.mpd
+
+
+#EXTINF:-1 ch-number="200" tvg-name="ROCK ENTERTAINMENT" tvg-id="ROCK ENTERTAINMENT.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="Entertainment", ROCK ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3837d26526efca2fa1f18823bd073c0f:ab4d56168a618b2413beb137d70ac453
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0165/DASH/V0165.mpd
+
+#EXTINF:-1 ch-number="201" tvg-name="ROCK Action" tvg-id="ROCK Action.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="Entertainment", ROCK Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a3f4f0914988cc2f6be128c28893fff:db158f0d2bb85efd8f06e38d483de19c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0166/DASH/V0166.mpd
+
+#EXTINF:-1 ch-number="202" tvg-name="MONO29 Music Station" tvg-id="MONO29 Music Station.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="Entertainment", MONO29 Music Station
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2355ee65664e0b7fc02e7d389e1d2658:a935ccb1065ffe214823aae414f8b257
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0193/DASH/V0193.mpd
+
+#EXTINF:-1 ch-number="205" tvg-name="Food Network" tvg-id="Food Network.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0162.png" group-title="Variety", Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7372347ddf65ab1594ee35362240dafa:4d78d33c15d1098214b3d3cd3bb7c2a4
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0162/DASH/V0162.mpd
+
+#EXTINF:-1 ch-number="206" tvg-name="Asian Food Network" tvg-id="Asian Food Network.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png" group-title="Variety", Asian Food Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=41c6d6041786bf8142636da6646af821:943bc1ff87a15e9cf19613713bed6509
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0161/DASH/V0161.mpd
+
+#EXTINF:-1 ch-number="207" tvg-name="TLC" tvg-id="TLC.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png" group-title="Entertainment", TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adfe8e6aa801559a4e129992c0f20403:6c7aefc27c4bea0fd10c282061c138d8
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0183/DASH/V0183.mpd
+
+#EXTINF:-1 ch-number="209" tvg-name="Global Trekker" tvg-id="Global Trekker.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png" group-title="Entertainment", Global Trekker
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c67bc71fc46a9af8e839ac84794f570:5375508840e044432a708c3fba038c05
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0023/DASH/V0023.mpd
+
+#EXTINF:-1 ch-number="210" tvg-name="Khong Dee Thailand" tvg-id="Khong Dee Thailand.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="Variety", Khong Dee Thailand
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0154/DASH/V0154.mpd
+
+
+#EXTINF:-1 ch-number="211" tvg-name="Thainess" tvg-id="Thainess.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="Variety", Thainess
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0155/DASH/V0155.mpd
+
+
+#EXTINF:-1 ch-number="251" tvg-name="TechStorm" tvg-id="TechStorm.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TechStorm_new.png" group-title="Entertainment", TechStorm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dca989ef784fa310300fa21c893dbcf3:fb9068e0516852ee0ec251605322e549
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0168/DASH/V0168.mpd
+
+#EXTINF:-1 ch-number="255" tvg-name="TV5MONDE" tvg-id="TV5MONDE.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TV5MONDEasie.png" group-title="News", TV5MONDE
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0141/DASH/V0141.mpd
+
+
+#EXTINF:-1 ch-number="260" tvg-name="MVTV" tvg-id="MVTV.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0090.png" group-title="Entertainment", MVTV
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0090/DASH/V0090.mpd
+
+
+#EXTINF:-1 ch-number="261" tvg-name="Media TV" tvg-id="Media TV.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/MediaTV.png" group-title="Entertainment", Media TV
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0062/DASH/V0062.mpd
+
+
+#EXTINF:-1 ch-number="263" tvg-name="ATTV" tvg-id="ATTV.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0039.png" group-title="Entertainment", ATTV
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0039/DASH/V0039.mpd
+
+
+#EXTINF:-1 ch-number="264" tvg-name="TVB Thai" tvg-id="TVB Thai.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png" group-title="Entertainment", TVB Thai
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0095/DASH/V0095.mpd
+
+
+#EXTINF:-1 ch-number="265" tvg-name="Rama Channel" tvg-id="Rama Channel.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RamaChannel.png" group-title="Entertainment", Rama Channel
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0096/DASH/V0096.mpd
+
+
+#EXTINF:-1 ch-number="266" tvg-name="LunthungTV" tvg-id="LunthungTV.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LunthungTV.PNG" group-title="Entertainment", LunthungTV
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0092/DASH/V0092.mpd
+
+
+#EXTINF:-1 ch-number="267" tvg-name="4050" tvg-id="4050.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0030.png" group-title="Variety", 4050
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0030/DASH/V0030.mpd
+
+
+#EXTINF:-1 ch-number="268" tvg-name="Topline" tvg-id="Topline.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0089.png" group-title="Entertainment", Topline
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0089/DASH/V0089.mpd
+
+
+#EXTINF:-1 ch-number="272" tvg-name="MV Lao" tvg-id="MV Lao.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0094.png" group-title="Entertainment", MV Lao
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0094/DASH/V0094.mpd
+
+
+#EXTINF:-1 ch-number="284" tvg-name="Mix Major" tvg-id="Mix Major.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0091.png" group-title="Entertainment", Mix Major
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0091/DASH/V0091.mpd
+
+
+#EXTINF:-1 ch-number="300" tvg-name="GOLF CHANNEL" tvg-id="GOLF CHANNEL.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/GolfChannel.png" group-title="Sports", GOLF CHANNEL
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd
+
+#EXTINF:-1 ch-number="301" tvg-name="3BB Sports One" tvg-id="3BB Sports One.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBsports1_new.png" group-title="Sports", 3BB Sports One
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d153e515a3ec465db2d812275d254d3f:808b83fd09be3a6c95fdd322379e068b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0190/DASH/V0190.mpd
+
+#EXTINF:-1 ch-number="303" tvg-name="Eurosport Asia" tvg-id="Eurosport Asia.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//EUROSPORT.png" group-title="Sports", Eurosport Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5f67464d9d312c700be706ae06ea789:757b64dc16872bbc5fb23184ce9e1d62
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0184/DASH/V0184.mpd
+
+#EXTINF:-1 ch-number="311" tvg-name="beIN SPORTS 1" tvg-id="beIN SPORTS 1.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="Sports", beIN SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+
+#EXTINF:-1 ch-number="312" tvg-name="beIN SPORTS 2" tvg-id="beIN SPORTS 2.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="Sports", beIN SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+
+#EXTINF:-1 ch-number="313" tvg-name="beIN SPORTS 3" tvg-id="beIN SPORTS 3.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="Sports", beIN SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+
+#EXTINF:-1 ch-number="401" tvg-name="Cartoonito" tvg-id="Cartoonito.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png" group-title="Kids", Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6a1b556425b6932c6ffe80e7a828e57:bd8ea11b338954c1746f45bcf851c91e
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0113/DASH/V0113.mpd
+
+#EXTINF:-1 ch-number="402" tvg-name="Cartoon Network" tvg-id="Cartoon Network.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="Kids", Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=752cdfe2fd238fcb0b98a8cb7e0ed584:1f0d3ac06263a52d9c826394c7f3b1d4
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/X171/DASH/X171.mpd
+
+#EXTINF:-1 ch-number="403" tvg-name="Nickelodeon" tvg-id="Nickelodeon.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png" group-title="Kids", Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34cf6695d9082bc5b4687e59d61b48d2:64e30dc5efbacf1f3fd344a01ba2f906
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0187/DASH/V0187.mpd
+
+#EXTINF:-1 ch-number="404" tvg-name="Nick Jr." tvg-id="Nick Jr..th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0156.png" group-title="Kids", Nick Jr.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4852cf0a609a4f7f21bac4a4f7d5df5:a47711e6e3d68235cc942e4fb9c1c5f1
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0186/DASH/V0186.mpd
+
+#EXTINF:-1 ch-number="450" tvg-name="Boomerang" tvg-id="Boomerang.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png" group-title="Kids", Boomerang
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
+
+
+#EXTINF:-1 ch-number="451" tvg-name="Cartoon Club" tvg-id="Cartoon Club.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png" group-title="Kids", Cartoon Club
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd
+
+
+#EXTINF:-1 ch-number="502" tvg-name="Animal Planet" tvg-id="Animal Planet.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="Documentary", Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=445b1220aeb39feb55a95944aeeb65f4:52d98a1cd54f99d67e6512799504d235
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0182/DASH/V0182.mpd
+
+#EXTINF:-1 ch-number="503" tvg-name="Discovery" tvg-id="Discovery.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png" group-title="Documentary", Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e8393537881b2d8534238f3a916d5a4:2ae033b06e3fb8e3a26ad63fb74d0f2f
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0180/DASH/V0180.mpd
+
+#EXTINF:-1 ch-number="504" tvg-name="Discovery Asia" tvg-id="Discovery Asia.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png" group-title="Documentary", Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7d2b3a2ee44d2d9e676f5ff1c09cc57:17d93e04b88ec01e67e3f07f68947164
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0181/DASH/V0181.mpd
+
+#EXTINF:-1 ch-number="505" tvg-name="Samrujlok" tvg-id="Samrujlok.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png" group-title="Documentary", Samrujlok
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0151/DASH/V0151.mpd
+
+
+#EXTINF:-1 ch-number="506" tvg-name="MySci" tvg-id="MySci.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="Documentary", MySci
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0152/DASH/V0152.mpd
+
+
+#EXTINF:-1 ch-number="507" tvg-name="Animal Show" tvg-id="Animal Show.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png" group-title="Documentary", Animal Show
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0153/DASH/V0153.mpd
+
+
+#EXTINF:-1 ch-number="550" tvg-name="NHK" tvg-id="NHK.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png" group-title="News", NHK
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0102/DASH/V0102.mpd
+
+
+#EXTINF:-1 ch-number="551" tvg-name="RT Documentary" tvg-id="RT Documentary.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png" group-title="Documentary", RT Documentary
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0106/DASH/V0106.mpd
+
+
+#EXTINF:-1 ch-number="602" tvg-name="HLN" tvg-id="HLN.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0107.png" group-title="News", HLN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1a2180a2489df5ab7f950fe447ba60b:972ce3ee5c678f04b94212690f9ac76c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0172/DASH/V0172.mpd
+
+#EXTINF:-1 ch-number="603" tvg-name="CNN" tvg-id="CNN.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png" group-title="News", CNN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5e2d32a4acc84af9770faba8a7ff1fa:7b0b64c86be296d15ebdf3a3a1af0560
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0107/DASH/V0107.mpd
+
+#EXTINF:-1 ch-number="604" tvg-name="BBC News" tvg-id="BBC News.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBCNEWS.png" group-title="News", BBC News
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7078457bda703b567e3fbfa46ffaac:116c7d0b1960bf398798a09a75ee155b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0125/DASH/V0125.mpd
+
+#EXTINF:-1 ch-number="640" tvg-name="CCTV4" tvg-id="CCTV4.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CCTV4.png" group-title="News", CCTV4
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0173/DASH/V0173.mpd
+
+
+#EXTINF:-1 ch-number="641" tvg-name="CGTN" tvg-id="CGTN.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CGTN.png" group-title="News", CGTN
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0174/DASH/V0174.mpd
+
+
+#EXTINF:-1 ch-number="650" tvg-name="Channel News Asia" tvg-id="Channel News Asia.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png" group-title="News", Channel News Asia
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0122/DASH/V0122.mpd
+
+
+#EXTINF:-1 ch-number="651" tvg-name="Euro News" tvg-id="Euro News.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/EuroNnews-1.png" group-title="News", Euro News
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0119/DASH/V0119.mpd
+
+
+#EXTINF:-1 ch-number="652" tvg-name="DW" tvg-id="DW.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121" group-title="News", DW
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0121/DASH/V0121.mpd
+
+
+#EXTINF:-1 ch-number="653" tvg-name="France 24" tvg-id="France 24.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0123_1.png" group-title="News", France 24
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0123/DASH/V0123.mpd
+
+
+#EXTINF:-1 ch-number="654" tvg-name="Arirang" tvg-id="Arirang.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0177.png" group-title="News", Arirang
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0177/DASH/V0177.mpd
+
+
+#EXTINF:-1 ch-number="655" tvg-name="News 1" tvg-id="News 1.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="News", News 1
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0036/DASH/V0036.mpd
+
+
+#EXTINF:-1 ch-number="657" tvg-name="Al Jazeera" tvg-id="Al Jazeera.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Aljazeera_logo.png" group-title="News", Al Jazeera
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0140/DASH/V0140.mpd
+
+
+#EXTINF:-1 ch-number="658" tvg-name="TOP News" tvg-id="TOP News.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="News", TOP News
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0033/DASH/V0033.mpd
+
+
+#EXTINF:-1 ch-number="659" tvg-name="RT Channel" tvg-id="RT Channel.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png" group-title="News", RT Channel
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0105/DASH/V0105.mpd
+
+
+#EXTINF:-1 ch-number="660" tvg-name="TVBS News" tvg-id="TVBS News.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVBS.png" group-title="News", TVBS News
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0108/DASH/V0108.mpd
+
+
+#EXTINF:-1 ch-number="700" tvg-name="DLTV1" tvg-id="DLTV1.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV1.png" group-title="Education", DLTV1
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0068/DASH/V0068.mpd
+
+
+#EXTINF:-1 ch-number="701" tvg-name="DLTV2" tvg-id="DLTV2.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV2.png" group-title="Education", DLTV2
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0069/DASH/V0069.mpd
+
+
+#EXTINF:-1 ch-number="702" tvg-name="DLTV3" tvg-id="DLTV3.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV3.png" group-title="Education", DLTV3
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0070/DASH/V0070.mpd
+
+
+#EXTINF:-1 ch-number="703" tvg-name="DLTV4" tvg-id="DLTV4.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV4.png" group-title="Education", DLTV4
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0071/DASH/V0071.mpd
+
+
+#EXTINF:-1 ch-number="704" tvg-name="DLTV5" tvg-id="DLTV5.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV5.png" group-title="Education", DLTV5
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0072/DASH/V0072.mpd
+
+
+#EXTINF:-1 ch-number="705" tvg-name="DLTV6" tvg-id="DLTV6.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV6.png" group-title="Education", DLTV6
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0073/DASH/V0073.mpd
+
+
+#EXTINF:-1 ch-number="706" tvg-name="DLTV7" tvg-id="DLTV7.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV7.png" group-title="Education", DLTV7
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0074/DASH/V0074.mpd
+
+
+#EXTINF:-1 ch-number="707" tvg-name="DLTV8" tvg-id="DLTV8.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV8.png" group-title="Education", DLTV8
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0075/DASH/V0075.mpd
+
+
+#EXTINF:-1 ch-number="708" tvg-name="DLTV9" tvg-id="DLTV9.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV9.png" group-title="Education", DLTV9
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0076/DASH/V0076.mpd
+
+
+#EXTINF:-1 ch-number="709" tvg-name="DLTV10" tvg-id="DLTV10.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV10.png" group-title="Education", DLTV10
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0077/DASH/V0077.mpd
+
+
+#EXTINF:-1 ch-number="710" tvg-name="DLTV11" tvg-id="DLTV11.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV11.png" group-title="Education", DLTV11
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0078/DASH/V0078.mpd
+
+
+#EXTINF:-1 ch-number="711" tvg-name="DLTV12" tvg-id="DLTV12.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV12.png" group-title="Education", DLTV12
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0079/DASH/V0079.mpd
+
+
+#EXTINF:-1 ch-number="712" tvg-name="DLTV13" tvg-id="DLTV13.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV13.png" group-title="Education", DLTV13
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0080/DASH/V0080.mpd
+
+
+#EXTINF:-1 ch-number="713" tvg-name="DLTV14" tvg-id="DLTV14.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV14.png" group-title="Education", DLTV14
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0081/DASH/V0081.mpd
+
+
+#EXTINF:-1 ch-number="714" tvg-name="DLTV15" tvg-id="DLTV15.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/DLTV15.png" group-title="Education", DLTV15
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0082/DASH/V0082.mpd
+
+
+#EXTINF:-1 ch-number="716" tvg-name="ETV" tvg-id="ETV.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0087.png" group-title="Education", ETV
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0087/DASH/V0087.mpd
+
+
+#EXTINF:-1 ch-number="717" tvg-name="DHARMA TV" tvg-id="DHARMA TV.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/DHARMA_TV.png" group-title="Education", DHARMA TV
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0056/DASH/V0056.mpd
+
+
+#EXTINF:-1 ch-number="720" tvg-name="NEW TM" tvg-id="NEW TM.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/NEW_TM.png" group-title="Education", NEW TM
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0060/DASH/V0060.mpd
+
+
+#EXTINF:-1 ch-number="722" tvg-name="White Channel" tvg-id="White Channel.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0059.png" group-title="Education", White Channel
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0059/DASH/V0059.mpd
+
+
+#EXTINF:-1 ch-number="801" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0052.png" group-title="Variety", High Shopping
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0052/DASH/V0052.mpd
+
+
+#EXTINF:-1 ch-number="802" tvg-name="TVD MOMO" tvg-id="TVD MOMO.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0064.png" group-title="Variety", TVD MOMO
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0064/DASH/V0064.mpd
+
+
+#EXTINF:-1 ch-number="803" tvg-name="TVD 1" tvg-id="TVD 1.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVD1.png" group-title="Variety", TVD 1
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0067/DASH/V0067.mpd
+
+
+#EXTINF:-1 ch-number="807" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0111.png" group-title="Variety",TrueSelect
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0111/DASH/V0111.mpd
+
+
+#EXTINF:-1 ch-number="808" tvg-name="TrueSelect" tvg-id="TrueSelect.th" group-logo="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/V0112.png" group-title="Variety", TrueSelect
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0112/DASH/V0112.mpd
+
+
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="Sports",BeIN Sports 1 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
+ 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png" group-title="Sports",BeIN Sports 2 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
+ 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png" group-title="Sports",BeIN Sports 3 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
+ 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_4.png" group-title="Sports",BeIN Sports 4 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb419fa5f5498e2c6cbc39363248ddd7:b5853b51f2060025a822e62973154556
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0004/DASH/S0004.mpd
+
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_5.png" group-title="Sports",BeIN Sports 5 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a165f923cd49e616f173fc6c341cc56:4cb96186d69f1a63c40218812a6f6910
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0005/DASH/S0005.mpd
+
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_6.png" group-title="Sports",BeIN Sports 6 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ceac4607562049abb9d1b0309d9cd6f3:d396d277a364fab00d0193d25b700847
+https://49-231-37-37-rewriter.ais-vidnt.com/ais/play/origin/live/eds/S0006/DASH/S0006.mpd
+ 
+#EXTINF:-1 tvg-logo="https://ais-s.demo-vidnt.com/ais/play/origin/LIVE/channelicon/beIN_SPORTS_7.png" group-title="Sports",BeIN Sports 7 AIS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94a28a75b3891e92a97efbe76f941095:7b39cd0e318ee481b98c36a125c540fb
+
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0007/DASH/S0007.mpd
+
+#EXTINF:-1 tvg-name="AIS PLAY SPORTS 1" tvg-id="AIS PLAY SPORTS 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AISPLAY_SPORTS1.png" group-title="AIS LIVE SPORTS", AIS PLAY SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL101/DASH/TL101.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 1" tvg-id="BALLTHAI 1" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png" group-title="AIS LIVE SPORTS", BALLTHAI 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/DASH/TL001.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 2" tvg-id="BALLTHAI 2" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png" group-title="AIS LIVE SPORTS", BALLTHAI 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL002/DASH/TL002.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 3" tvg-id="BALLTHAI 3" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png" group-title="AIS LIVE SPORTS", BALLTHAI 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/DASH/TL003.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 4" tvg-id="BALLTHAI 4" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png" group-title="AIS LIVE SPORTS", BALLTHAI 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL004/DASH/TL004.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 5" tvg-id="BALLTHAI 5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png" group-title="AIS LIVE SPORTS", BALLTHAI 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL005/DASH/TL005.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 6" tvg-id="BALLTHAI 6" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png" group-title="AIS LIVE SPORTS", BALLTHAI 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL006/DASH/TL006.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 7" tvg-id="BALLTHAI 7" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png" group-title="AIS LIVE SPORTS", BALLTHAI 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL007/DASH/TL007.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 8" tvg-id="BALLTHAI 8" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png" group-title="AIS LIVE SPORTS", BALLTHAI 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL008/DASH/TL008.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 9" tvg-id="BALLTHAI 9" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_9.png" group-title="AIS LIVE SPORTS", BALLTHAI 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL009/DASH/TL009.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 10" tvg-id="BALLTHAI 10" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_10.png" group-title="AIS LIVE SPORTS", BALLTHAI 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL010/DASH/TL010.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 11" tvg-id="BALLTHAI 11" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_11.png" group-title="AIS LIVE SPORTS", BALLTHAI 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL011/DASH/TL011.mpd
+
+#EXTINF:-1 tvg-name="BALLTHAI 12" tvg-id="BALLTHAI 12" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_12.png" group-title="AIS LIVE SPORTS", BALLTHAI 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL012/DASH/TL012.mpd
+
+#EXTINF:-1 tvg-name="Doi Inthanon Thailand by UTMB 2023" tvg-id="Doi Inthanon Thailand by UTMB 2023" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//UTMBWorldSeries2023w.png" group-title="AIS LIVE SPORTS", Doi Inthanon Thailand by UTMB 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V1004/DASH/V1004.mpd
+
